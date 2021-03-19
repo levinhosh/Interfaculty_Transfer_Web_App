@@ -1,0 +1,27 @@
+.box1
+{
+	height: 650px;
+	width: 500px;
+	background-color: #0f011df5;
+	margin: 70px auto;
+	opacity: .7;
+	color: white;
+	padding: 20px;
+
+}
+form .login
+{
+	margin: auto 50px;
+}
+input
+{
+	height: 25px;
+	width: 200px;
+
+}
+input[type="submit"]:hover
+{
+	cursor: pointer;
+	background: #0d0796;
+	color: white; 
+}
